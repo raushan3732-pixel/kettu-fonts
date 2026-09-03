@@ -1,0 +1,17 @@
+{
+  "spec": 1,
+  "name": "Caveat",
+  "previewText": "Cute handwritten font",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Regular.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Regular.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Regular.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Bold.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Bold.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat-Bold.ttf"
+  }
+}
